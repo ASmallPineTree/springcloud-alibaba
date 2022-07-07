@@ -1,4 +1,4 @@
-package entity;
+package com.itheima.shop.common.entity;
 
 import lombok.Data;
 
